@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Blue Legume",
+        "cuisine": "europian"
+    },
+    {
+        "name": "Heart Attack",
+        "cuisine": "fastFood"
+    },
+    {
+        "name": "Mexican Chef",
+        "cuisine": "mexican"
+    },
+    {
+        "name": "Sterio",
+        "cuisine": "italian"
+    },
+    {
+        "name": "Abo Mazen",
+        "cuisine": "arabian"
+    },
+    {
+        "name": "Koshary Abo Waleed",
+        "cuisine": "arabian"
+    }
+]

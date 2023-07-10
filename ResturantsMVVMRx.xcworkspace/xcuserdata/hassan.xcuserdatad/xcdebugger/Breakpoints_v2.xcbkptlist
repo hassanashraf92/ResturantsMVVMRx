@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC286650-5461-4DE2-B8B1-2931A79E0430"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E780BB94-063E-46A7-B35D-BF83DD3EE7DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ResturantsMVVMRx/Presentation Layer/Restaurant Internal/RestaurantInternalCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF84B146-149C-44F8-AAB9-0CEB9C0F1BBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ResturantsMVVMRx/Presentation Layer/Restaurants List/RestaurantListCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "navigateToInternalViewController(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF84B146-149C-44F8-AAB9-0CEB9C0F1BBE - 687e33909b83f98b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ResturantsMVVMRx.RestaurantListCoordinator.navigateToInternalViewController(with: ResturantsMVVMRx.Restaurant) -&gt; ()"
+                  moduleName = "ResturantsMVVMRx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassan/Downloads/Work/Projects/ResturantsMVVMRx/ResturantsMVVMRx/Presentation%20Layer/Restaurants%20List/RestaurantListCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "CF84B146-149C-44F8-AAB9-0CEB9C0F1BBE - 687e33909b83fa6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ResturantsMVVMRx.RestaurantListCoordinator.navigateToInternalViewController(with: ResturantsMVVMRx.Restaurant) -&gt; ()"
+                  moduleName = "ResturantsMVVMRx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassan/Downloads/Work/Projects/ResturantsMVVMRx/ResturantsMVVMRx/Presentation%20Layer/Restaurants%20List/RestaurantListCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF46FB2B-0E61-4C55-946D-0099586010D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ResturantsMVVMRx/Presentation Layer/Restaurants List/RestaurantListCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF46FB2B-0E61-4C55-946D-0099586010D3 - 91834ca3cf9d3bd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ResturantsMVVMRx.Restaurant) -&gt; Swift.Optional&lt;()&gt; in ResturantsMVVMRx.RestaurantListCoordinator.start() -&gt; ()"
+                  moduleName = "ResturantsMVVMRx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassan/Downloads/Work/Projects/ResturantsMVVMRx/ResturantsMVVMRx/Presentation%20Layer/Restaurants%20List/RestaurantListCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EF46FB2B-0E61-4C55-946D-0099586010D3 - 91834ca3cf9d3bd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ResturantsMVVMRx.Restaurant) -&gt; Swift.Optional&lt;()&gt; in ResturantsMVVMRx.RestaurantListCoordinator.start() -&gt; ()"
+                  moduleName = "ResturantsMVVMRx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hassan/Downloads/Work/Projects/ResturantsMVVMRx/ResturantsMVVMRx/Presentation%20Layer/Restaurants%20List/RestaurantListCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
